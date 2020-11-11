@@ -2,7 +2,7 @@
 	"source": "UE",
 	"applications": [
 		{
-			"app_key": "application.generated.ue.eyesonthesky_ue4-14469661.ue4editor.exe",
+			"app_key": "application.generated.ue.virtual-reality-bp-game-template-14469661.ue4editor.exe",
 			"launch_type": "url",
 			"url": "steam://launch/",
 			"action_manifest_path": "D:/GitHub/EyesOnTheSky_UE4/Config/SteamVRBindings/steamvr_manifest.json",
@@ -10,7 +10,7 @@
 			{
 				"en_us":
 				{
-					"name": "EyesOnTheSky_UE4-14469661 [UE Editor]"
+					"name": "Virtual Reality BP Game Template-14469661 [UE Editor]"
 				}
 			}
 		}
